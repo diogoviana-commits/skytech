@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "Starter",
+    "preco": "R$19/mês",
+    "beneficios": [
+      "Até 5 usuários",
+      "Relatórios básicos",
+      "Dashboard simples"
+    ]
+  },
+  {
+    "nome": "Pro",
+    "preco": "R$49/mês",
+    "beneficios": [
+      "Até 25 usuários",
+      "Relatórios avançados",
+      "Suporte prioritário",
+      "Slack e Teams"
+    ]
+  },
+  {
+    "nome": "Enterprise",
+    "preco": "Sob consulta",
+    "beneficios": [
+      "Usuários ilimitados",
+      "Suporte dedicado",
+      "Funcionalidades customizadas"
+    ]
+  }
+]
